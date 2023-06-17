@@ -1,4 +1,8 @@
 public interface Shape {
-    double getPerimeter();
+
+    double getPermiter ();
     double getArea();
+
+
 }
+
